@@ -1,0 +1,15 @@
+.buttonStyle{
+    background-color: rgb(80, 90, 148);
+}
+
+.containerMargin{
+    margin-left: 3vw;
+    margin-right: 3vw;
+    max-width: 100%;
+}
+
+.brandButton{
+    font-family: Fredoka;
+    text-decoration: None;
+    font-size: 20px;
+}
