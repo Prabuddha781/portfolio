@@ -1,0 +1,7 @@
+.sectionContainer{
+    height: 100vh;
+}
+
+.slide > .carousel-inner{
+    height: 100%;
+}
